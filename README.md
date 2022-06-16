@@ -2,10 +2,10 @@
 ## Description
 
 A proof of concept for QR code crawling/decoding based on images.
--Fetchs images based on selected dated and query.
--Analyse images and tries QR code decoding.
--Saving datas found in json format (db.json).
--May find personnal data related to french sanitary pass (pass_db.json).
+- Fetchs images based on selected dated and query.
+- Analyse images and tries QR code decoding.
+- Saving datas found in json format (db.json).
+- May find personnal data related to french sanitary pass (pass_db.json).
 
 ## Installation
 Install the dependencies.
