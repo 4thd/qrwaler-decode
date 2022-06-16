@@ -1,0 +1,17 @@
+base45==0.4.3
+beautifulsoup4==4.11.1
+cbor2==5.4.3
+certifi==2022.6.15
+charset-normalizer==2.0.12
+icrawler==0.6.6
+idna==3.3
+lxml==4.9.0
+numpy==1.22.4
+opencv-python==4.6.0.66
+Pillow==9.1.1
+pyzbar==0.1.9
+requests==2.28.0
+six==1.16.0
+soupsieve==2.3.2.post1
+tinydb==4.7.0
+urllib3==1.26.9
