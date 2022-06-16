@@ -6,7 +6,6 @@ def is_valid(content, expected_type):
                 if len(content) < 50:
                     return True
                 else:
-                    print("ookook")
                     return False
             except ValueError:
                 return False
