@@ -27,8 +27,7 @@ class Crawler:
 
             filters = dict(
                 size="large",
-                color="green",
-                date=((self.start), (self.end)),  # pastweek
+                date=((self.start), (self.end)),
             )
             google_crawler.crawl(
                 keyword=self.query,
